@@ -1,0 +1,5 @@
+transformers
+nltk
+tqdm
+pyarrow
+ijson
