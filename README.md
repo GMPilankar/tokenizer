@@ -22,3 +22,11 @@ The repository is kept intentionally minimal and focused, consisting of four cor
 ├── train_tok_utils.py  # Data preprocessing and dataset handling
 ├── train_tokenizer.py  # Train and save trained tokenizer object as pickle file
 └── bpe_benchmark.py    # Tokenization latency comparison against Hugging Face
+```
+## Installation
+
+### 1. Clone the repository
+First, clone the project to your local machine:
+```bash
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+cd your-repo-name
