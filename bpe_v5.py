@@ -428,7 +428,7 @@ class BPE():
                 subword_list.extend(self.word_subwords_dict[word])
             return subword_list 
         else:
-            raise ValueError(f"Invalid format. format has to be either 'int' or 'str' but got '{format}'")
+            raise ValueError(f"Invalid format. format has to be either 'int' or 'str' but got '{return_type}'")
 
   
     
